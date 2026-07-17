@@ -1,0 +1,16 @@
+{
+  "name": "vibedroid-pro",
+  "version": "2.0.0",
+  "description": "VibeDroid Pro - AI-powered Electron dev companion",
+  "main": "index.js",
+  "author": "pangerlkr",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["electron", "ai", "developer-tools", "vibe-coding"],
+  "devDependencies": {
+    "electron": "^43.1.1"
+  }
+}
